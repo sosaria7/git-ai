@@ -1,0 +1,24 @@
+src/commands/checkpoint_agent/orchestrator.rs
+  s_3d83b07269cb91::t_d2b012953bc13b 160-168
+tests/integration/main.rs
+  s_3d83b07269cb91::t_bfbbfc65827bee 91
+tests/integration/korean_euc_kr_edits.rs
+  s_3d83b07269cb91::t_b175342b5f2bbc 1-39,48-108,119-140,151-176,187-193
+  s_3d83b07269cb91::t_89039073004295 40-47,109-118,141-150,177-186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ff7d4abbc7a2a634ecabde21d7576aefdefda348",
+  "prompts": {},
+  "sessions": {
+    "s_3d83b07269cb91": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c17e88-5c39-4bb5-add8-4655ad8aea01",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Keonwoo Kim <sosaria7@gmail.com>"
+    }
+  }
+}

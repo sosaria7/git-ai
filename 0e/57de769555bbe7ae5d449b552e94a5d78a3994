@@ -1,0 +1,37 @@
+tests/integration/rewrite_ops_attribution.rs
+  h_4c50c706f88625 2445-2446,2465-2469,2474-2486,2488
+  s_df9eac51658afc::t_ac17a49c7210a9 2470-2473,2487
+tests/integration/test_utils.rs
+  s_6dfccd2fa6aed7::t_69d16f3791444e 50-64
+  h_4c50c706f88625 75-87
+  s_df9eac51658afc::t_369181c880363d 151-154
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "0e57de769555bbe7ae5d449b552e94a5d78a3994",
+  "prompts": {},
+  "humans": {
+    "h_4c50c706f88625": {
+      "author": "Keonwoo Kim <sosaria7@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_6dfccd2fa6aed7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee2abe3c-6e1e-4ac9-8b12-46a2f108a5c3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Keonwoo Kim <sosaria7@gmail.com>"
+    },
+    "s_df9eac51658afc": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "21b00e1b-4483-4759-8a1d-38bf84c04f29",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Keonwoo Kim <sosaria7@gmail.com>"
+    }
+  }
+}

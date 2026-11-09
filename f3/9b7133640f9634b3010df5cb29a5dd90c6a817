@@ -1,0 +1,16 @@
+Cargo.lock
+  h_4c50c706f88625 1069
+Cargo.toml
+  h_4c50c706f88625 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "f39b7133640f9634b3010df5cb29a5dd90c6a817",
+  "prompts": {},
+  "humans": {
+    "h_4c50c706f88625": {
+      "author": "Keonwoo Kim <sosaria7@gmail.com>"
+    }
+  }
+}

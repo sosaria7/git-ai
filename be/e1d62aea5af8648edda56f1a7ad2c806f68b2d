@@ -1,0 +1,21 @@
+tests/integration/korean_euc_kr_edits.rs
+  s_3d83b07269cb91::t_7e40874033af41 189-226
+src/commands/checkpoint_agent/orchestrator.rs
+  s_3d83b07269cb91::t_2b274fb59c0d3c 161-162,165-168
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bee1d62aea5af8648edda56f1a7ad2c806f68b2d",
+  "prompts": {},
+  "sessions": {
+    "s_3d83b07269cb91": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c17e88-5c39-4bb5-add8-4655ad8aea01",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Keonwoo Kim <sosaria7@gmail.com>"
+    }
+  }
+}
